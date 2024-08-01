@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.dl {
+    padding: 6px;
+    background-color: #5956E9;
+    border-radius: 4px;
+}
+
+.feature {
+    background-image: url('./bg.png');
+}
+
+.video {
+    background-image: url('./bg.png');
+}
+
+.main-color {
+    color: #7572FF;
+}
+
+.black {
+    color: #000000;
+}
+
+.semi-black {
+    color: #6C6C72;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.semi-white {
+    color: #FFFFFF80;
+}

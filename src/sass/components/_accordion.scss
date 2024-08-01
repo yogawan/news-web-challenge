@@ -1,0 +1,45 @@
+/* DropdownLayouts.css */
+
+.dropdown-layouts {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-button {
+    background-color: #FFFFFF;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .dropdown-icon {
+    margin-right: 8px; /* Spasi antara ikon dan teks */
+  }
+  
+  .dropdown-text {
+    display: inline-block;
+  }
+  
+  .dropdown-menu {
+    display: block;
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+  
+  .dropdown-menu li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .dropdown-menu li:hover {
+    background-color: #f1f1f1;
+  }
+  
